@@ -13,5 +13,5 @@ Check the `prime_cycle.py` file to run the logic.
 
 ### 🔓 License
 
-Released under the MIT License.  
-Use freely. Attribution is appreciated but not required.
+Released under the GPL v3 License.  
+
