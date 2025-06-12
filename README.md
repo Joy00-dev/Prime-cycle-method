@@ -9,7 +9,7 @@ it stars with a repeating digit pattern:
 
 ### ⚙️ Code
 
-Check the `prime_cycle.py` file to run the logic.
+Check the `metodonumeriprimi_anonimo.py` file to run the logic.
 
 ### 🔓 License
 
